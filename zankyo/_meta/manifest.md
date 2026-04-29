@@ -1,7 +1,7 @@
 # manifest
 
 ## 概況
-- 現在段階: 第1段（骨格確定段階 / Phase 0研究完了）
+- 現在段階: Phase 2 完了（中核世界観・歴史層実装済み）
 - 更新方針: Phase 完了ごとにファイル数・概算文字数・更新日を更新する。
 
 ## 初期登録ファイル
@@ -20,6 +20,32 @@
 - `02_history/eras.md`
 - `02_history/chronicle_official.md`
 - `03_present/regions.md`
+
+## Phase 1 コアファイル
+- `01_core/premise.md`
+- `01_core/geography_overview.md`
+- `01_core/cosmology.md`
+- `01_core/resonance_theory.md`
+- `01_core/core_taboos.md`
+- `01_core/calendar_and_timekeeping.md`
+- `01_core/measurement_and_value.md`
+- `01_core/foundational_terms.md`
+- `01_core/seasonality.md`
+
+## Phase 2 履歴ファイル
+- `02_history/chronicle_official.md`
+- `02_history/chronicle_folk.md`
+- `02_history/chronicle_defeated.md`
+- `02_history/chronicle_heretical.md`
+- `02_history/chronicle_silence.md`
+- `02_history/eras.md`
+- `02_history/resonance_map.md`
+- `02_history/dynasties.md`
+- `02_history/wars.md`
+- `02_history/historiography.md`
+- `02_history/archives_and_censorship.md`
+- `02_history/memory_sites.md`
+- `02_history/engineered_atrocities.md`
 
 ## Phase 0 研究ファイル
 - `00_research/R-01_topophilia_and_land_bound_trauma.md`
@@ -48,8 +74,8 @@
 - `00_research/inspiration_safeguards.md`
 - `00_research/fantasy_cliche_rejection_matrix.md`
 
-## カウント（暫定）
-- 総ファイル数: 40
-- 総文字数: 骨格段階のため未集計
-- 検索回数: 44
-- 最終更新: 2026-04-29T06:11Z
+## カウント（概算）
+- 総ファイル数: 62
+- 総文字数: 約180000
+- 検索回数: 44+
+- 最終更新: 2026-04-29T06:39Z
