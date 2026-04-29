@@ -79,3 +79,21 @@
 - 総文字数: 約180000
 - 検索回数: 44+
 - 最終更新: 2026-04-29T06:39Z
+
+
+## Phase 3 現在地理ファイル
+- `03_present/regions.md`
+- `03_present/region_01_sauma.md`
+- `03_present/region_02_nuwane.md`
+- `03_present/region_03_negushe.md`
+- `03_present/region_04_shannu.md`
+- `03_present/region_05_heshuku.md`
+- `03_present/region_06_taruhesu.md`
+- `03_present/region_07_kuarugu.md`
+- `03_present/region_08_gueramu.md`
+- `03_present/region_09_irai.md`
+- `03_present/region_10_oea.md`
+- `03_present/region_11_masanu.md`
+- `03_present/region_12_guatoru.md`
+- `03_present/cities.md`
+- `03_present/borders_disputes.md`
